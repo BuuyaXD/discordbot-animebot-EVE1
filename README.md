@@ -21,7 +21,11 @@ I publish the full source code of this project and templates to my GitHub, www.G
 - Youtube Channel: https://www.youtube.com/channel/UCtM5lkCADlF4nd6ZrJxdbJw
 - Codepen.io Page: https://codepen.io/BuuyaXD
 - Discord Server: https://discord.gg/cwZqTzewrt
-
+- Top.GG: https://top.gg/bot/906849873570177024
+  
+## FUll Source Code
+  *Coming Soon*
+  
 ## Troubleshooting
 > This app uses the ctk-anime-scraper package to stream from the anime website, which is frequently updated as it makes changes. If your bot has issues downloading a particular anime, try again later or check for an updated version of the dependency.
 
