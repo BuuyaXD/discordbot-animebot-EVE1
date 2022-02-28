@@ -13,6 +13,7 @@ I present my new project, (EVE1) > Even anime 多 a bot that is in > development
 - '>help :' This commands just shows you what commands bot have
 - '>trace :' Get the anime details from its scene
 - '>Ping :' Brings up the latency of the bot
+- '>vote :' Let the user vote for the bot
 
 ## GitHub
 I publish the full source code of this project and templates to my GitHub, www.Github.com/BuuyaXD This will enable it so anybody can fork my project in Autocode directly.
@@ -33,4 +34,6 @@ I publish the full source code of this project and templates to my GitHub, www.G
 - If you have any questions or feedback, please join my community Discord from the Community tab in the top bar. You can also follow me on Twitter, @BuuyaXD.
 
 ## Version
-- 0.1.2
+- 0.0.0 : Initial Release
+- 0.1.2 : Added '>waifu', '>neko', '>quote' and, fixed bug
+- 0.2.0 : Added '>Vote' 
